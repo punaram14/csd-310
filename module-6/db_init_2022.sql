@@ -1,5 +1,6 @@
 /*
-    Title: db_init_2022.sql
+  Name :Puna Poudel
+  Title: db_init_2022.sql
     Author: Professor Sampson
     Date: 1 Aug 2022
     Description: movies database initialization script.

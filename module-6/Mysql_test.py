@@ -15,7 +15,6 @@ cursor.execute("show databases");
 for x in cursor:
   print(x)
 
-
 cnx.close()
 
 
